@@ -1,0 +1,1 @@
+python2.7 ./scripts/run-flownet-many_train.py ../PreProcessing_FlowNet/models/FlowNet2/FlowNet2_weights.caffemodel.h5 ../PreProcessing_FlowNet/models/FlowNet2/FlowNet2_deploy.prototxt.template ./list.txt --gpu 1
